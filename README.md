@@ -28,7 +28,7 @@ After that we have fill the input field Name and Enrollment no. then click to ta
 
 
 StudentDetails
-![image](https://user-images.githubusercontent.com/94756061/167749634-2f0b9472-cd0f-4f1b-8443-e2a3ed282f7a.png)
+![image](https://user-images.githubusercontent.com/94756061/167750472-3d9c5f50-3866-4237-b36f-9c57ea3a0807.png)
 
 4)
 Then we Click on Traine Image . It will notify us that images are trained.
